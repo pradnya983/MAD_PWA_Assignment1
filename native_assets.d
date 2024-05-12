@@ -1,0 +1,1 @@
+ C:\\flutter_project\\MAD_PWA_Package\\path_provider_package_usage\\.dart_tool\\flutter_build\\2c747e60cfec17d82384cb00e8ebbf68\\native_assets.yaml: 
